@@ -39,7 +39,7 @@ pip install streamlit openai requests beautifulsoup4 pdfkit
 Ensure that wkhtmltopdf is installed and accessible in your system's PATH for PDF conversion with pdfkit.
 
 ## Usage Guide 📝
-* the Streamlit app
+* Run the Streamlit app
 ```shell
 Copy code
 streamlit run main.py
